@@ -1,4 +1,4 @@
-# Bouncer
+# Maintainer
 
 ![Image of Gopher Worker](assets/maintainer.svg)
 
